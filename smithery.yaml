@@ -1,0 +1,6 @@
+name: genpark-partial-json-parser-stream-completer-skill
+version: 1.0.0
+description: Resilient streaming JSON completer repairing truncated in-flight JSON tokens into valid parse trees
+command: python
+args:
+  - mcp_server.py
