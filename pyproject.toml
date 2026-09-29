@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-partial-json-parser-stream-completer-skill"
+version = "1.0.0"
+description = "Resilient streaming JSON completer repairing truncated in-flight JSON tokens into valid parse trees"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
