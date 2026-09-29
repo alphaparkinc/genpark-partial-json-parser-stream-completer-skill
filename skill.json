@@ -1,0 +1,20 @@
+{
+  "name": "genpark-partial-json-parser-stream-completer-skill",
+  "version": "1.0.0",
+  "description": "Resilient streaming JSON completer repairing truncated in-flight JSON tokens into valid parse trees",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "partial-json",
+    "stream-completer",
+    "json-parser",
+    "streaming-json",
+    "fault-tolerant-json",
+    "python-standard-library",
+    "agent-skills",
+    "auto-completion",
+    "realtime",
+    "developer-tools"
+  ]
+}
